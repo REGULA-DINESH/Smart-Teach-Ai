@@ -1,0 +1,6 @@
+.env
+venv/
+echo "venv/
+__pycache__/
+data/
+history_resources/
